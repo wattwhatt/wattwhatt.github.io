@@ -10,7 +10,7 @@ My GitHub page is http://github.com/wattwhatt.
 
 * Lab 9
 
-    Lab 9, especially part 1 was 
+    Lab 9, part 1 was especially memorable in Lap 9. Part 1 was to create a program to find the average. This was memorable because it was interesting to have the computer do a process that would have been tedious if I had to do it myself.
 
 * Lab 5
 
@@ -18,4 +18,4 @@ My GitHub page is http://github.com/wattwhatt.
 
 * Lab 12
 
-    Lab 12, I was impressed with both part 1 and part 2 of this lab because I was curious about how game graphics and images are created in my computer science classes, and this lab allowed me to learn how. 
+    Lab 12, I was impressed with both part 1 and part 2 of this lab because I was curious about how game graphics and images are created in my computer science classes, and this lab allowed me to learn how. Also, it was memoriable since it was my last lab class.
